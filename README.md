@@ -1,6 +1,6 @@
 ## RStudio Mac License
 
-<img src="https://images.seeklogo.com/logo-png/43/2/r-studio-logo-png_seeklogo-431724.png" width="200" alt="App icon" align="left"/>
+<img src="https://images.icon-icons.com/1381/PNG/512/rstudio_94807.png" width="200" alt="App icon" align="left"/>
 
 <div>
 <h3>RStudio for macOS</h3>
